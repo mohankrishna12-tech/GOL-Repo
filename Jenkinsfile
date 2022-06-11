@@ -12,12 +12,12 @@ stages {
 
       // Get some code from a GitHub repository
 
-      //git 'https://github.com/raknas999/game-of-life.git'
-      git 'https://github.com/raknas999/GOL-Repo.git'
+      //git 'https://github.com/mohankrishna12-tech/game-of-life.git'
+      git 'https://github.com/mohankrishna12-tech/GOL-Repo.git'
 
       // Get the Maven tool.
      
- // ** NOTE: This 'M3' Maven tool must be configured
+ // ** NOTE: This 'Maven' Maven tool must be configured
  
      // **       in the global configuration.   
      }
